@@ -1,0 +1,10 @@
+
+*.lock
+
+*.properties
+
+*.bin
+
+*.xml
+
+*.iml
