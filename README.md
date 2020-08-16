@@ -1,1 +1,1 @@
-spring-chat
+practice chat server.
