@@ -8,3 +8,13 @@
 *.xml
 
 *.iml
+
+src/main/resources/static/.DS_Store
+
+src/main/resources/.DS_Store
+
+node_modules/faye-websocket/README.md
+
+node_modules/faye-websocket/LICENSE.md
+
+.DS_Store
