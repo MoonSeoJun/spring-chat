@@ -18,3 +18,7 @@ node_modules/faye-websocket/README.md
 node_modules/faye-websocket/LICENSE.md
 
 .DS_Store
+
+.node_module
+
+.node_modules
