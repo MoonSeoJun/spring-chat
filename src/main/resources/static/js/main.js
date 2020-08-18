@@ -1,5 +1,4 @@
 'use strict';
-
 let usernamePage = document.querySelector('#username-page');
 let chatPage = document.querySelector('#chat-page');
 let usernameForm = document.querySelector('#usernameForm');
@@ -24,8 +23,7 @@ function connect(event) {
         chatPage.classList.remove('hidden');
 
         var socket = new SockJS('/ws');
-        stompClient = Stomp
-
+        stompClient = Stomp.over(socket);
         stompClient.connect({}, onConnected, onError);
     }
     event.preventDefault();
