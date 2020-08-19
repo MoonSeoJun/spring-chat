@@ -15,3 +15,8 @@ Then, it is just builded and you just run jar file.
 There is still bug. :fire:
 
 Fixed bugs will be commit to "develop" branches.
+
+---------------------------------------------------------------
+## ScreenShots
+![LoginScreen](./img/nickname.png)
+![ChatForm](./img/chatting-server)
