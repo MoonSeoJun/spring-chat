@@ -20,3 +20,4 @@ Fixed bugs will be commit to "develop" branches.
 ## ScreenShots
 ![LoginScreen](./img/nickname.png)
 ![ChatForm](./img/chatting-server)
+Screenshot is not working
