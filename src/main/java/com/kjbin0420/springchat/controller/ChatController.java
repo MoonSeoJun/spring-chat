@@ -14,6 +14,10 @@ public class ChatController {
     @MessageMapping("/chat.sendMessage")
     @SendTo("/topic/public")
     public Chat sendMessage(@Payload Chat chatMessage) {
+        if (chatMessage.getContent().equals("null")) {
+            chatMessage.setContent(chatMessage.getSender() + "님이 입장하셨습니다.");
+            return chatMessage;
+        }
         return chatMessage;
     }
 
