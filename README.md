@@ -9,7 +9,7 @@
 ---------------------------------------------------------------
 Made by Spring boot MVC :herb:
 
-If you wanna build, Run to terminal and Run command "./gradlew build"
+If you wanna build, Run terminal and Run command "./gradlew build"
 Then, it is just builded and you just run jar file.
 
 There is still bug. :fire:
