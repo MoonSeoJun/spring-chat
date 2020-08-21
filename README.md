@@ -7,7 +7,7 @@
 #### Testing Site : www.springchat.kro.kr
 
 ---------------------------------------------------------------
-Made by Spring boot MVC :herb:
+Made by using Spring boot MVC :herb:
 
 If you wanna build, Run terminal and Run command "./gradlew build"
 Then, it is just builded and you just run jar file.
